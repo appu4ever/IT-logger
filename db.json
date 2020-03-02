@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "System crash, update hardware on workstation 101",
+      "attention": true,
+      "date": "2020-03-01T11:39:29.225Z",
+      "tech": "Sara Wilson"
+    },
+    {
+      "id": 3,
+      "message": "Cable change request for router RX003",
+      "attention": false,
+      "date": "2020-03-01T11:40:32.612Z",
+      "tech": "Sam Smith"
+    }
+  ],
+  "techs": [
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jen",
+      "lastName": "Williams",
+      "id": 4
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Harris",
+      "id": 5
+    }
+  ]
+}
